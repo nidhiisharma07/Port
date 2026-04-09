@@ -29,8 +29,8 @@ export const projects = [
     description:
       "A modern branding platform designed to communicate technical depth clearly. Built with performance-first patterns, subtle animation, and thoughtful interaction design to impress quickly.",
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
-    github: "https://github.com/",
-    live: "https://example.com/",
+    github: "https://github.com/nidhiisharma07/Port",
+    live: "https://vercel.com/nidhiisharma07s-projects/port/HX7sHa4xjt4mw9imiBz3QnTd2P5N",
   },
 ];
 
